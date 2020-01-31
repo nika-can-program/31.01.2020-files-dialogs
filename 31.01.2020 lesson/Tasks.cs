@@ -55,7 +55,7 @@ namespace _31._01._2020_lesson
                 foreach(char word in str)
                 {
                     if(word=='р')
-                    {
+                    { 
                         MessageBox.Show("ОБнаРуЖеН" +word);
                     }
                 }
